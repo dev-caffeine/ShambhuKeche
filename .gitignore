@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / generated files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Office temp files
+~$*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtualenv
+venv/
+.env/
